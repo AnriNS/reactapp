@@ -19,6 +19,10 @@ class App extends Component {
           >
             Learn React
           </a>
+          <form>
+            <input></input>
+            <button color="primary">Button</button>
+          </form>
         </header>
       </div>
     );
